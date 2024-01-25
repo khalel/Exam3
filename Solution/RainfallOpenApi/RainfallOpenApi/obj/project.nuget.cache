@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "M+ryFM7uhL0MD+HmyJysCXzfKUe8yh6RkqdcyH5KL+mPyNZvkbb/Mflj713jeYJ2sXsuN7p3CxzqmRIrj0BDbg==",
+  "success": true,
+  "projectFilePath": "D:\\- Files\\01_Jigs\\Carepatron\\Solution\\RainfallOpenApi\\RainfallOpenApi\\RainfallOpenApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jigs\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Jigs\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Jigs\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Jigs\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Jigs\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Jigs\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
